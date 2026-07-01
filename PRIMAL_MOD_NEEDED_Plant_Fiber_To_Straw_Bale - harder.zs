@@ -1,0 +1,2 @@
+
+craftingTable.addShaped("plant_fiber_primal_straw_bale_harder", <item:primal:straw_bale> * 1, [[<item:notreepunching:plant_fiber>, <item:notreepunching:plant_fiber>, <item:notreepunching:plant_fiber>], [<item:notreepunching:plant_fiber>, <item:notreepunching:plant_fiber>, <item:notreepunching:plant_fiber>], [<item:notreepunching:plant_fiber>, <item:notreepunching:plant_fiber>, <item:notreepunching:plant_fiber>]]);

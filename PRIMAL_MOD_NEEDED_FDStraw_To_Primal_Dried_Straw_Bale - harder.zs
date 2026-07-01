@@ -1,0 +1,2 @@
+
+craftingTable.addShaped("fdstraw_primal_dried_straw_bale", <item:primal:dried_straw_bale> * 1, [[<item:farmersdelight:straw>, <item:farmersdelight:straw>, <item:farmersdelight:straw>], [<item:farmersdelight:straw>, <item:farmersdelight:straw>, <item:farmersdelight:straw>], [<item:farmersdelight:straw>, <item:farmersdelight:straw>, <item:farmersdelight:straw>]]);
